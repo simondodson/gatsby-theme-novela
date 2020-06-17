@@ -1,3 +1,4 @@
+[![Board Status](https://riteio.visualstudio.com/cd53bee3-27f7-4a69-838e-8ad7a182cf8f/4040ced2-f5c1-4873-85f8-23e04bdc873f/_apis/work/boardbadge/d27c2a9f-3247-47a6-8ce3-1aaa3f719be0)](https://riteio.visualstudio.com/cd53bee3-27f7-4a69-838e-8ad7a182cf8f/_boards/board/t/4040ced2-f5c1-4873-85f8-23e04bdc873f/Microsoft.RequirementCategory)
 <a href="https://www.narative.co/labs/novela/" target="_blank">
 <img src="https://raw.githubusercontent.com/narative/gatsby-theme-novela-example/master/assets/gatsby-theme-novela-hero.jpg" alt="gatsby-novela-theme hero image" />
 </a>
